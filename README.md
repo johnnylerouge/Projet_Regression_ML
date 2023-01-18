@@ -1,6 +1,6 @@
 # P1_ML-OpenClassrooms
 
-## Mission : 
+## Objectif : 
 
 Prédire la consommation d'énergie des bâtiments de la ville de Seattle
 
