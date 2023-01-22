@@ -1,4 +1,4 @@
-# P1_ML-OpenClassrooms
+# Projet_Regression
 
 ## Objectif : 
 
